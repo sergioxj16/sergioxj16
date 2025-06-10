@@ -14,7 +14,7 @@
 <!--Intro start-->
 <ul>
 <li>
-<p>🔭 I’m currently working on <strong>AWS, React, React Native, Nodejs, MongoDB</strong></p>
+<p>🔭 I’m currently working on <strong>React, Angular, C##, MCSQL, Nodejs, MongoDB</strong></p>
 </li>
 </ul>
 <!--Intro end-->
